@@ -3,7 +3,7 @@ from flask_pymongo import PyMongo
 from stalliongold import app
 
 app.config['MONGO_DBNAME'] = 'stalliongold'
-app.config['MONGO_URI'] = 'mongodb://<stalliongoldadmin>:<12121997dec>@ds237660.mlab.com:37660/stalliongold'
+app.config['MONGO_URI'] = 'mongodb://<stalliongoldadmin>:<icantputithere>@ds237660.mlab.com:37660/stalliongold'
 
 #mongo = PyMongo(app)
 
