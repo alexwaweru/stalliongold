@@ -1,5 +1,4 @@
 stalliongold/__init__.py
-stalliongold/client_API.py
 stalliongold/forms.py
 stalliongold/views.py
 stalliongold.egg-info/PKG-INFO
